@@ -1,2 +1,0 @@
-# spectreTrack
-SOT tracker
